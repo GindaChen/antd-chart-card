@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@ant-design/charts": "1.0.14",
+    "antd": "latest",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-media": "1.10.0"
+  },
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": ""
+}
